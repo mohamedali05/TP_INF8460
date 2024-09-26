@@ -1,0 +1,4 @@
+/TP2/data/*
+!/TP2/data/.gitkeep
+
+/TP_2/glove.42B.300d.txt
