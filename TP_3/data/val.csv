@@ -1,0 +1,501 @@
+,concepts,sentence
+0,['cloud' 'run' 'sky'],running clouds in the sky
+1,['cloud' 'run' 'sky'],white clouds run against the blue summer sky
+2,['cloud' 'run' 'sky'],clouds run away after the rain and clear the sky
+3,['cat' 'keyboard' 'lie'],A cat lying on top of a keyboard 
+4,['cat' 'keyboard' 'lie'],A relaxing cat lies next to a keyboard. 
+5,['cat' 'keyboard' 'lie'],A cat lies on a laptop and paws the keyboard
+6,['banana' 'bunche' 'table'],many bunches of bananas on a table 
+7,['banana' 'bunche' 'table'],Several bunches of bananas on tables and on the ground ready to be sold. 
+8,['country' 'fan' 'match'],fans watching the match against country .
+9,['country' 'fan' 'match'],fans are seen during the match between countries .
+10,['country' 'fan' 'match'],fans react after country played country in a match .
+11,['cloud' 'sea' 'sun'],the sun over the sea of clouds
+12,['cloud' 'sea' 'sun'],sun rises above a fluffy sea of clouds
+13,['cloud' 'sea' 'sun'],sun breaking through dense cloud on to the sea
+14,['coach' 'match' 'team'],coach and his team before the match
+15,['coach' 'match' 'team'],coach of french national team during the match
+16,['coach' 'match' 'team'],coach during the match between rugby union teams
+17,['grass' 'lie' 'portrait'],portrait of a sheep lying on the grass
+18,['grass' 'lie' 'portrait'],tight portrait of a leopard lying down in lush green grass
+19,['grass' 'lie' 'portrait'],portrait of a cheetah lying and resting on red ground with green grass
+20,['banana' 'orange' 'table'],A banana and a orange on a table.
+21,['banana' 'orange' 'table'],Five oranges are on a table near bananas.
+22,['banana' 'orange' 'table'],Two bananas next to an orange on a yellow table.
+23,['fan' 'look' 'match'],fan looks on during the match
+24,['fan' 'look' 'match'],disappointed fans look at the match
+25,['fan' 'look' 'match'],fans look on as players warm up ahead of the match .
+26,['cloud' 'heart' 'shape'],heart shaped cloud over the road
+27,['cloud' 'heart' 'shape'],pink tree under a heart shaped cloud
+28,['cloud' 'heart' 'shape'],heart shaped clouds in the blue sky .
+29,['grass' 'park' 'plane'],A small crop plane parked on the grass
+30,['grass' 'park' 'plane'],Fighter jet parked on grass among many planes.
+31,['grass' 'park' 'plane'],A large dual engine plane is parked in the grass
+32,['anime' 'call' 'wallpaper'],wallpaper with anime called family
+33,['anime' 'call' 'wallpaper'],the wallpaper possibly with anime called the team
+34,['anime' 'call' 'wallpaper'],wallpaper probably containing a portrait and anime called
+35,['rise' 'sea' 'sun'],sun rising above the sea
+36,['rise' 'sea' 'sun'],sun rising over a quiet sea
+37,['rise' 'sea' 'sun'],sun rise horizon with the sea
+38,['cloud' 'moon' 'move'],the moon and clouds moving
+39,['cloud' 'moon' 'move'],fast clouds moving over a full moon
+40,['cloud' 'moon' 'move'],dark clouds moved through the full moon
+41,['balloon' 'cloud' 'sky'],balloons and clouds in the sky
+42,['balloon' 'cloud' 'sky'],travel by balloon in a sky with clouds .
+43,['arrive' 'premiere' 'wife'],wife arrives at the premiere
+44,['arrive' 'premiere' 'wife'],comedian and wife arrive at the premiere of movie
+45,['apple' 'orange' 'pear'],"A close up of apples, pears and oranges."
+46,['apple' 'orange' 'pear'],"An avocado, an apple, a banana, a pear, and an orange. "
+47,['classroom' 'pupil' 'teacher'],a teacher in a classroom of pupils
+48,['classroom' 'pupil' 'teacher'],teacher helping her pupil in the classroom
+49,['classroom' 'pupil' 'teacher'],rural female teachers and pupils in the classroom
+50,['field' 'sky' 'wheat'],sky over a field of wheat
+51,['field' 'sky' 'wheat'],field of wheat and cloud in the sky
+52,['field' 'sky' 'wheat'],a golden field of wheat under blue skies
+53,['sit' 'station' 'track'],A train sits on the tracks at a station
+54,['sit' 'station' 'track'], two sub trains sitting on tracks next to a station
+55,['hay' 'sheep' 'stand'],A herd of sheep standing in the hay.
+56,['hay' 'sheep' 'stand'],A sheep that is standing on some hay.
+57,['hay' 'sheep' 'stand'],two sheep standing on hay in wooden barn
+58,['boat' 'coast' 'sea'],lonely old boat on the coast of sea
+59,['boat' 'coast' 'sea'],tropical coast with boats in the sea
+60,['bathroom' 'bidet' 'toilet'],a toilet and a bidet in a bathroom
+61,['bathroom' 'bidet' 'toilet'],The toilet and the bidet are in the bathroom.
+62,['bathroom' 'bidet' 'toilet'],The small bathroom has a bidet next to the toilet.
+63,['cover' 'pizza' 'topping'],A pizza on a table covered in toppings
+64,['cover' 'pizza' 'topping'],The pizza is covered by many different toppings.
+65,['cover' 'pizza' 'topping'],A pizza is covered with an assortment of toppings.
+66,['field' 'lay' 'sheep'],a small sheep is laying in a field
+67,['field' 'lay' 'sheep'],A sheep laying on top of a lush green field.
+68,['field' 'lay' 'sheep'],Two sheep laying in th middle of an open field.
+69,['park' 'train' 'yard'],A train yard with several parked trains. 
+70,['park' 'train' 'yard'],A group of trains parked at the rail yard.
+71,['park' 'train' 'yard'],A very old boxcar on an old train parked in a yard.
+72,['carry' 'track' 'train'],A train carrying goods on a railroad track.
+73,['carry' 'track' 'train'],A train carries machinery over gravely train tracks.
+74,['carry' 'track' 'train'],The train is carrying cars down the railroad tracks. 
+75,['butterfly' 'flower' 'garden'],butterfly on a flower in garden
+76,['butterfly' 'flower' 'garden'],butterflies in the garden are the flowers
+77,['butterfly' 'flower' 'garden'],stamp painting of butterflies and flowers in a garden
+78,['flower' 'grow' 'rock'],flowers growing on a rock
+79,['flower' 'grow' 'rock'],flower growing over some rocks
+80,['flower' 'grow' 'rock'],wild flowers growing among the rocks
+81,['tree' 'wave' 'wind'],trees waving in the wind
+82,['tree' 'wave' 'wind'],strong wind waving palm tree
+83,['tree' 'wave' 'wind'],palm tree waving in the wind on a blue sky
+84,['cloud' 'mountain' 'roll'],clouds roll over the mountain
+85,['cloud' 'mountain' 'roll'],storm clouds rolling in over a mountain
+86,['cloud' 'mountain' 'roll'],low clouds roll in through the mountains
+87,['eat' 'enclosure' 'zebra'],A large zebra in an enclosure eating hay
+88,['eat' 'enclosure' 'zebra'],A zebra eats short grass inside its enclosure
+89,['eat' 'enclosure' 'zebra'],Zebras eat and rest in their muddy zoo enclosure
+90,['bunch' 'motorcycle' 'park'],A bunch of motorcycles is parked in a lot.
+91,['bunch' 'motorcycle' 'park'],A military airplane on the tarmac with a bunch of motorcycles parked close by 
+92,['battle' 'blaze' 'firefighter'],firefighters are battling a blaze
+93,['battle' 'blaze' 'firefighter'],firefighters cool off after battling a blaze that badly
+94,['battle' 'blaze' 'firefighter'],a firefighter is seen pulling a hose as they battle the blaze
+95,['chair' 'couch' 'fireplace'],"A room with a fireplace, couch and chair."
+96,['chair' 'couch' 'fireplace'],The chair and couch are in the room with the fireplace.
+97,['chair' 'couch' 'fireplace'],"A living room has couches and chairs, as well as a fireplace."
+98,['hill' 'track' 'train'],a train on a train track near hills 
+99,['hill' 'track' 'train'],a train going down the track beside a large hill
+100,['hill' 'track' 'train'],A train on the train tracks going through some hills.
+101,['action' 'match' 'team'],dance team in action during the match .
+102,['action' 'match' 'team'],general action of team during round of the match .
+103,['building' 'city' 'function'],building function in a city
+104,['building' 'city' 'function'],building function of the old city
+105,['building' 'city' 'function'],building function in the port city
+106,['lead' 'road' 'village'],road leading to the village
+107,['lead' 'road' 'village'],a narrow road leads into a village
+108,['building' 'clock' 'sky'],an orange building a clock and a blue sky
+109,['building' 'clock' 'sky'],A large building with a clock on it in the sky
+110,['building' 'clock' 'sky'],A clock in middle of two building below blue sky.
+111,['batter' 'pitch' 'wait'],A batter up at bat waiting for a pitch.
+112,['batter' 'pitch' 'wait'],"The batter is waiting, ready for the pitch."
+113,['batter' 'pitch' 'wait'],"A batter, catcher, and umpire wait for the next pitch."
+114,['attraction' 'tourist' 'visit'],tourists visit tourist attraction every year
+115,['attraction' 'tourist' 'visit'],group of tourists visiting tourist attraction
+116,['attraction' 'tourist' 'visit'],tourists visit tourist attraction amid heavy smog .
+117,['cloud' 'roll' 'sky'],clouds rolling in on the sky
+118,['cloud' 'roll' 'sky'],time lapse of a clouds rolling in blue sky
+119,['cloud' 'roll' 'sky'],rolling clouds and blue skies roll over the peak .
+120,['leader' 'meet' 'politician'],politicians meet with religious leader
+121,['leader' 'meet' 'politician'],politician met religious leader last month
+122,['leader' 'meet' 'politician'],politician arrives to meet religious leader
+123,['basket' 'hold' 'vegetable'],holding a basket of vegetables
+124,['basket' 'hold' 'vegetable'],fresh organic vegetables being held in a basket
+125,['basket' 'hold' 'vegetable'],young boy holding basket full of fresh vegetables in the garden
+126,['apple' 'banana' 'basket'],A wire basket with apples and bananas in it.
+127,['apple' 'banana' 'basket'],Apples are below the bananas in the fruit basket.
+128,['cloud' 'move' 'tree'],clouds moving over the trees
+129,['cloud' 'move' 'tree'],clouds moving in an environment of high trees .
+130,['cloud' 'move' 'tree'],clouds moving past a silhouetted tree at sundown
+131,['event' 'politician' 'supporter'],supporters of politician at a campaign event .
+132,['event' 'politician' 'supporter'],politician waives to supporters as she leaves a speaking event
+133,['broccoli' 'noodle' 'plate'],A plate has noodles and broccoli on it.
+134,['broccoli' 'noodle' 'plate'],A plate topped with chicken next to noodles and broccoli.
+135,['fly' 'ground' 'plane'],a plane flying by close to the ground 
+136,['fly' 'ground' 'plane'],A small prop plane flies high above the ground.
+137,['fly' 'ground' 'plane'],An old fashioned plane that is flying low to the ground.
+138,['chair' 'room' 'shelf'],a living room with couches a chair and a shelf
+139,['chair' 'room' 'shelf'],A room has desks and chairs and wooden shelves.
+140,['chair' 'room' 'shelf'],"A girl's dorm room with posters, desk, chair and shelves."
+141,['come' 'smoke' 'train'],An old train with smoke coming out of it
+142,['come' 'smoke' 'train'],A train with smoke coming into the train depot
+143,['come' 'smoke' 'train'],A green and red train with smoke coming from it.
+144,['bed' 'comforter' 'pillow'],A bed covered in pillows and a comforter.
+145,['bed' 'comforter' 'pillow'],The bed has a purple comforter and white pillow.
+146,['bed' 'comforter' 'pillow'],There is an unmade bed with a comforter and pillows. 
+147,['explode' 'firework' 'sky'],fireworks explode in the sky
+148,['explode' 'firework' 'sky'],fireworks explode over a dark sky .
+149,['explode' 'firework' 'sky'],yellow and red fireworks exploding in a dark sky
+150,['park' 'plane' 'terminal'],A plane is parked at a runway terminal
+151,['park' 'plane' 'terminal'],Two planes parked at an airport terminal. 
+152,['park' 'plane' 'terminal'],the delta plane is parked next to the terminal 
+153,['boat' 'harbour' 'tide'],a boat at low tide in harbour
+154,['boat' 'harbour' 'tide'],boats moored in harbour with the tide out
+155,['boat' 'harbour' 'tide'],fishing boats on the mud low tide at harbour
+156,['frame' 'place' 'text'],the place for text with frame of lace
+157,['frame' 'place' 'text'],square frame with daisies and a place for text .
+158,['frame' 'place' 'text'],vintage red and golden geometric frame with place for the text
+159,['arrive' 'comedian' 'premiere'],comedian arrives to the premiere
+160,['arrive' 'comedian' 'premiere'],comedians arrive at the premiere
+161,['arrive' 'comedian' 'premiere'],comedian arrives for premiere of
+162,['laboratory' 'scientist' 'work'],a scientist working at laboratory
+163,['laboratory' 'scientist' 'work'],scientists working in the laboratory
+164,['laboratory' 'scientist' 'work'],a scientist works in her laboratory .
+165,['boat' 'jetty' 'moor'],boats moored at a jetty
+166,['boat' 'jetty' 'moor'],local boat moored by the jetty
+167,['boat' 'jetty' 'moor'],boats moored to an old wooden jetty
+168,['cat' 'eye' 'portrait'],portrait of a cat with blue eyes
+169,['cat' 'eye' 'portrait'],portrait of the face and green eyes of a furry grey and white cat
+170,['aircraft' 'cloud' 'fly'],aircraft flying over the clouds
+171,['aircraft' 'cloud' 'fly'],aircraft flying past a thin patch of clouds .
+172,['aircraft' 'cloud' 'fly'],aircraft flies in the dark clouds with sunlight
+173,['builder' 'stain' 'window'],builder on a stained glass window
+174,['builder' 'stain' 'window'],stained glass window of builder carrying the cross
+175,['builder' 'stain' 'window'],stained glass window depicting builder and book in the cathedral
+176,['place' 'visit' 'worship'],visiting islamic place of worship
+177,['place' 'visit' 'worship'],people visit buddhist place of worship
+178,['place' 'visit' 'worship'],visit roman catholic place of worship .
+179,['enclosure' 'grass' 'zebra'],A zebra grazing on grass in an enclosure
+180,['enclosure' 'grass' 'zebra'],A zebra eats short grass inside its enclosure
+181,['enclosure' 'grass' 'zebra'],Two grown zebras eating grass in an enclosure.
+182,['cloud' 'day' 'move'],moving clouds on a sunny day
+183,['cloud' 'day' 'move'],the cloud moving in during the day
+184,['cloud' 'day' 'move'],high apartment with moving clouds in a rain day
+185,['corn' 'field' 'grow'],corn growing in a field
+186,['corn' 'field' 'grow'],corn grows in the field .
+187,['corn' 'field' 'grow'],green field of corn growing up behind a wire
+188,['burn' 'candle' 'church'],burning candle in a church
+189,['burn' 'candle' 'church'],candles burn in the church
+190,['burn' 'candle' 'church'],singer burning a candle in the church of her parish .
+191,['day' 'look' 'sea'],man looking out to sea on a windy day
+192,['day' 'look' 'sea'],blonde woman looks at the sea in a windy day
+193,['day' 'look' 'sea'],church looking out across the sea during an overcast day
+194,['brow' 'furrow' 'stare'],He stares with a furrowed brow.
+195,['brow' 'furrow' 'stare'],"Her brow furrowed, someone stares at him."
+196,['brow' 'furrow' 'stare'],Someone stares at the sky then furrows his brow.
+197,['athlete' 'player' 'session'],athlete speaks to players during a training session
+198,['athlete' 'player' 'session'],soccer player and athlete during session before the match .
+199,['athlete' 'player' 'session'],athlete looks on with rugby player during the training session .
+200,['load' 'port' 'ship'],a ship being loaded at the port
+201,['load' 'port' 'ship'],container ships loading in the port
+202,['cloud' 'lake' 'reflect'],clouds reflected in a lake
+203,['cloud' 'lake' 'reflect'],clouds and mountains reflecting in the lake
+204,['lemur' 'ring' 'tail'],a pair of ring tailed lemurs
+205,['lemur' 'ring' 'tail'],ring tailed lemurs resting in the shade
+206,['lemur' 'ring' 'tail'],a ring tailed lemur relaxing in its enclosure
+207,['bear' 'grass' 'tree'],a bear on grass near small trees 
+208,['bear' 'grass' 'tree'],A brown bear in grass next to a fallen tree.
+209,['desk' 'desktop' 'laptop'],A desktop and a laptop on a desk.
+210,['desk' 'desktop' 'laptop'],A desk with two laptops and one desktop.
+211,['coffee' 'cup' 'morning'],serving a cup of coffee in the morning
+212,['coffee' 'cup' 'morning'],kick off your morning with a cup of coffee .
+213,['coffee' 'cup' 'morning'],cute girl with a cup of hot coffee outside on spring morning
+214,['cover' 'issue' 'magazine'],cover for the issue of magazine
+215,['cover' 'issue' 'magazine'],covers of multiple issues of magazine fanned out
+216,['grow' 'moss' 'tree'],moss growing on an oak tree
+217,['grow' 'moss' 'tree'],a small bed of moss growing on a tree
+218,['grow' 'moss' 'tree'],deep green soft moss growing on old trees .
+219,['carrot' 'plate' 'vegetable'],A plate of carrots and green leafy vegetables.
+220,['carrot' 'plate' 'vegetable'],Young child playing ith carrots from plate of vegetables.
+221,['carrot' 'plate' 'vegetable'],"There are some shrimp, carrots, and other vegetables on the plate."
+222,['building' 'clock' 'outside'],A clock on the outside of a big building.
+223,['building' 'clock' 'outside'],Large blue clock connected to the outside of a large building. 
+224,['building' 'clock' 'outside'],An ancient building has people around it and a clock on the outside.
+225,['bend' 'tree' 'wind'],tree bent by the wind
+226,['bend' 'tree' 'wind'],a tree bends with the wind
+227,['bend' 'tree' 'wind'],extreme wind causing trees to bend
+228,['protect' 'road' 'site'],road towards at protected site
+229,['protect' 'road' 'site'],entering protected site on road
+230,['protect' 'road' 'site'],the road through protected site
+231,['athlete' 'country' 'match'],olympic athlete during the match vs country
+232,['athlete' 'country' 'match'],athlete plays against country during a match
+233,['athlete' 'country' 'match'],athlete was man of the match in the game against country
+234,['horizon' 'rise' 'sun'],sun rising on the horizon
+235,['horizon' 'rise' 'sun'],the sun rises over horizon
+236,['horizon' 'rise' 'sun'],sun rise horizon with the sea
+237,['bathroom' 'corner' 'toilet'],a small toilet in the corner of a bathroom
+238,['bathroom' 'corner' 'toilet'],Shot of a bathroom with toilet and bath in far corner.
+239,['cloud' 'image' 'sky'],image of clouds in a blue sky
+240,['cloud' 'image' 'sky'],dramatic image of slow moving cloud on the sky
+241,['cloud' 'image' 'sky'],this is an image of a heart shaped cloud in the sky
+242,['action' 'athlete' 'team'],athlete in action against sports team
+243,['action' 'athlete' 'team'],athlete in action for rugby union team
+244,['action' 'athlete' 'team'],athlete in action during football team .
+245,['eat' 'grass' 'lean'],a zebra leaning over to eat some grass
+246,['eat' 'grass' 'lean'],A pair of zebra's leaned over eating grass.
+247,['eat' 'grass' 'lean'],The giraffe is leaning down to eat the grass.
+248,['airplane' 'lot' 'park'],A large white airplane parked on a lot. 
+249,['airplane' 'lot' 'park'],Airplanes parked in a lot for an airshow 
+250,['airplane' 'lot' 'park'],The older airplane is parked in the parking lot.
+251,['clock' 'front' 'tower'],this is a clock in front of a tower
+252,['clock' 'front' 'tower'],large brick tower with a clock the front
+253,['daughter' 'home' 'mother'],happy mother with a daughter at home
+254,['daughter' 'home' 'mother'],mother and daughter having fun at home .
+255,['daughter' 'home' 'mother'],a mother and daughter moving into a new home
+256,['bloom' 'flower' 'spring'],the flowers bloom in spring
+257,['bloom' 'flower' 'spring'],trees and flowers bloom in a spring next
+258,['bloom' 'flower' 'spring'],close up of a blooming wild flower in spring
+259,['hill' 'rise' 'sun'],sun rise behind the hill
+260,['hill' 'rise' 'sun'],sun rises over the hill .
+261,['hill' 'rise' 'sun'],image shows a sun rise over a hill .
+262,['butterfly' 'flower' 'nectar'],butterfly drinking the nectar on flower
+263,['butterfly' 'flower' 'nectar'],monarch butterfly seeking nectar on a flower
+264,['butterfly' 'flower' 'nectar'],butterfly flies to a flower and collects nectar
+265,['frame' 'heart' 'shape'],frame in the shape of heart .
+266,['frame' 'heart' 'shape'],vintage frame in shape of heart with biological genus .
+267,['enclosure' 'giraffe' 'zoo'],A giraffe at the zoo in an enclosure 
+268,['enclosure' 'giraffe' 'zoo'],Two giraffes in an enclosure in some type of zoo.
+269,['enclosure' 'giraffe' 'zoo'],Several giraffes wander around their enclosure at the zoo.
+270,['bowl' 'fruit' 'orange'],a bowl of fruit with an orange on top
+271,['bowl' 'fruit' 'orange'],A bowl of fruit containing oranges and apples
+272,['bowl' 'fruit' 'orange'],A white bowl filled with oranges and other fruits.
+273,['giraffe' 'look' 'zoo'],A giraffe looking to the side in a zoo
+274,['giraffe' 'look' 'zoo'],this is people looking at a giraffe at the zoo
+275,['giraffe' 'look' 'zoo'],Two giraffes in their enclosure in a zoo look around.
+276,['crowd' 'greet' 'leader'],religious leader greets the crowds
+277,['crowd' 'greet' 'leader'],huge crowds greet religious leader during his visit .
+278,['crowd' 'greet' 'leader'],religious leader greets a crowd of organisation founder .
+279,['beach' 'boat' 'launch'],boat launching from the beach
+280,['beach' 'boat' 'launch'],boats being launched on the beach
+281,['banana' 'plate' 'table'],a plate of meat and bananas on a table
+282,['banana' 'plate' 'table'],A bunch of bananas is on the table with some other plates.
+283,['boat' 'moor' 'port'],boats moored in a port
+284,['boat' 'moor' 'port'],fishing boats are mooring at the port .
+285,['boat' 'moor' 'port'],a tug boat moored at the jetty in the port
+286,['add' 'colour' 'splash'],adding a splash of colour .
+287,['add' 'colour' 'splash'],add a splash of colour with these cute bangles
+288,['add' 'colour' 'splash'],scarf to add a splash of colours to my wardrobe
+289,['arrow' 'heart' 'pierce'],heart pierced by an arrow
+290,['arrow' 'heart' 'pierce'],heart with an arrow piercing it
+291,['arrow' 'heart' 'pierce'],the arrow with a heart pierced through him .
+292,['moon' 'rise' 'tree'],moon rising behind the trees
+293,['moon' 'rise' 'tree'],a perigee moon rises behind a tree
+294,['moon' 'rise' 'tree'],a full moon rising over palm trees
+295,['bee' 'collect' 'nectar'],bees collect nectar from the flowers
+296,['bee' 'collect' 'nectar'],honey bee collecting nectar from a flower
+297,['bee' 'collect' 'nectar'],bees fighting for a flower to collect nectar
+298,['cover' 'meat' 'plate'],A plate of meat and potatoes covered in gravy.
+299,['cover' 'meat' 'plate'],The broccoli on the plate was covered with meat.
+300,['cover' 'meat' 'plate'],A plate full with mixed vegetables and sauce covered meat. 
+301,['celebrate' 'cricketer' 'wicket'],celebrating the wicket of cricketer .
+302,['celebrate' 'cricketer' 'wicket'],country celebrates the wicket of cricketer on monday .
+303,['celebrate' 'cricketer' 'wicket'],cricketers celebrate fall of a wicket during a match .
+304,['mushroom' 'onion' 'pizza'],"A whole pizza with onion, mushroom and broccoli."
+305,['mushroom' 'onion' 'pizza'],"An uncut pizza with olives, mushrooms, and onions."
+306,['mushroom' 'onion' 'pizza'],"A piece of pizza in the box with cheese, mushrooms, and onions."
+307,['flower' 'grow' 'wall'],flowers growing out of a wall
+308,['flower' 'grow' 'wall'],violet flowers grow from the wall .
+309,['flower' 'grow' 'wall'],flowers growing on an old stone wall
+310,['arm' 'hold' 'surfboard'],A man holding a surfboard in one arm.
+311,['arm' 'hold' 'surfboard'],Two women that are holding surfboards in their arms.
+312,['arm' 'hold' 'surfboard'],The man in shadow holds his surfboard under his arm.
+313,['lake' 'reflection' 'tree'],reflection of tree in a lake
+314,['lake' 'reflection' 'tree'],reflection of trees on the lake
+315,['lake' 'reflection' 'tree'],a fallen tree lying across a lake with reflection
+316,['bathroom' 'tub' 'wall'],The bathroom has a shiny wall and tub
+317,['bathroom' 'tub' 'wall'],A bathroom with yellow walls and tile tub
+318,['bathroom' 'tub' 'wall'],There is a bathroom with a small tub in the wall
+319,['handle' 'pair' 'scissor'],A pair of large scissors with orange handles.
+320,['handle' 'pair' 'scissor'],The handle on this pair of scissors is red plastic.
+321,['dry' 'fish' 'market'],dried fish on a market
+322,['dry' 'fish' 'market'],dried and salted fish at the market
+323,['dry' 'fish' 'market'],dried fish for sale at a morning market
+324,['city' 'moon' 'rise'],rising moon over the city
+325,['city' 'moon' 'rise'],moon rises above the city
+326,['city' 'moon' 'rise'],a full moon rises over a city .
+327,['bride' 'dad' 'walk'],bride and dad walking down the aisle
+328,['bride' 'dad' 'walk'],bride walking with her dad to the alter
+329,['bride' 'dad' 'walk'],a beautiful bride walks down the grassy aisle with her dad .
+330,['athlete' 'match' 'react'],athlete reacts after the match .
+331,['athlete' 'match' 'react'],olympic athlete reacts during match .
+332,['athlete' 'match' 'react'],athlete reacting prior to the match .
+333,['bridge' 'connect' 'island'],bridge which connects the islands
+334,['bridge' 'connect' 'island'],a bridge connecting small islands .
+335,['bridge' 'connect' 'island'],bridge connecting island to the mainland
+336,['evening' 'gown' 'wear'],model wearing an evening gown by retail .
+337,['evening' 'gown' 'wear'],celebrity wearing a purple evening gown at awards
+338,['food' 'giraffe' 'reach'],a giraffe reaching up to get some food
+339,['food' 'giraffe' 'reach'],A group of giraffes are reaching for food.
+340,['food' 'giraffe' 'reach'],Two giraffes reach for the food in the tree.
+341,['butterfly' 'feed' 'flower'],butterfly feeding on a flower
+342,['butterfly' 'feed' 'flower'],a yellow butterfly feeding from pink flowers .
+343,['butterfly' 'feed' 'flower'],butterfly with transparent wings feeds on a flower
+344,['cloud' 'hide' 'sun'],the sun hiding behind clouds
+345,['cloud' 'hide' 'sun'],sun hiding beyond the clouds on a bright summers day
+346,['cloud' 'hide' 'sun'],rising sun partially hidden with clouds from behind the sea
+347,['arrive' 'fan' 'match'],fans arrive for the match
+348,['arrive' 'fan' 'match'],fans arriving during day of the match
+349,['arrive' 'fan' 'match'],fans arrive prior to third round match .
+350,['lapse' 'rise' 'sun'],time lapse of the sun rising
+351,['lapse' 'rise' 'sun'],time lapse with sun rising over a city
+352,['lapse' 'rise' 'sun'],time lapse overlooking tourist attraction as the sun rises
+353,['enclosure' 'walk' 'zebra'],A zebra that is walking in an enclosure.
+354,['enclosure' 'walk' 'zebra'],Two zebras walking side by side in an enclosure
+355,['enclosure' 'walk' 'zebra'],A zebra walks away from its enclosure in a zoo.
+356,['couch' 'couple' 'home'],young couple at home on the couch
+357,['couch' 'couple' 'home'],young couple moving a couch into home
+358,['couch' 'couple' 'home'],loving old couple on the couch at home in slow motion
+359,['bend' 'giraffe' 'grass'],A giraffe bends down to eat some grass.
+360,['bend' 'giraffe' 'grass'],The giraffe is bending to eat the grass. 
+361,['bend' 'giraffe' 'grass'],A giraffe is bending down and eating grass.
+362,['astronaut' 'float' 'space'],an astronaut floats in space
+363,['astronaut' 'float' 'space'],an astronaut floating through space
+364,['astronaut' 'float' 'space'],astronaut floating in space above the earth
+365,['leave' 'match' 'pitch'],athlete leaving pitch after the match .
+366,['leave' 'match' 'pitch'],football player leaves the pitch during the match .
+367,['leave' 'match' 'pitch'],players leave the pitch after their match is abandoned
+368,['bridge' 'track' 'travel'],Two trains travel on tracks on a bridge
+369,['bridge' 'track' 'travel'],A train traveling down tracks net to a  bridge.
+370,['bridge' 'track' 'travel'],A railroad track traveling underneath a bridge in the day.
+371,['cat' 'look' 'portrait'],portrait of a surprised cat looking up
+372,['cat' 'look' 'portrait'],cute cat looks at industry for a portrait
+373,['cat' 'look' 'portrait'],portrait of tabby and white cat looking at the camera .
+374,['bloom' 'spring' 'tree'],trees bloom in a spring next
+375,['bloom' 'spring' 'tree'],blooming pear tree in the spring
+376,['bloom' 'spring' 'tree'],trees bloom for spring on street
+377,['coach' 'session' 'team'],coach instructs his team during a training session
+378,['coach' 'session' 'team'],new head coach of team during the training session .
+379,['coach' 'session' 'team'],man and coach during a training session for rugby union team .
+380,['port' 'ship' 'unload'],ship to unload at a sea port .
+381,['port' 'ship' 'unload'],container ship being unloaded at port
+382,['port' 'ship' 'unload'],the container ship is unloaded in the port
+383,['airplane' 'park' 'terminal'],a large airplane is parked at a terminal
+384,['airplane' 'park' 'terminal'],An airplane parked outside an air port terminal
+385,['airplane' 'park' 'terminal'],The airplanes are parked at the airport terminal.
+386,['city' 'surround' 'wall'],walls surrounding the old city
+387,['city' 'surround' 'wall'],a medieval wall surrounds the port city .
+388,['city' 'surround' 'wall'],ruins of ancient wall that surrounded the city .
+389,['apple' 'bunch' 'orange'],A bunch of oranges with an apple on top
+390,['apple' 'bunch' 'orange'],The two apples are surround by a bunch of oranges.
+391,['bathroom' 'rack' 'towel'],A towel that is on a rack in a bathroom.
+392,['bathroom' 'rack' 'towel'],A bathroom has a few towel racks and towels.
+393,['bathroom' 'rack' 'towel'],A home bathroom with a rack above the toilet for towels
+394,['coast' 'rock' 'sea'],rock on coast at the sea
+395,['coast' 'rock' 'sea'],the coast of white rocks by the sea
+396,['coast' 'rock' 'sea'],red rock and blue sea for the coast .
+397,['shot' 'sky' 'tree'],close shot of a tree in flower against a blue sky
+398,['shot' 'sky' 'tree'],low angle shot of palm trees and blue skies on a sunny day
+399,['shot' 'sky' 'tree'],a wide shot of the sky and trees while panning to the right
+400,['cloud' 'sky' 'storm'],the sky is grey clouds before a storm
+401,['cloud' 'sky' 'storm'],dark clouds in the winter sky during a storm at sea
+402,['detail' 'guitar' 'take'],detail of bass guitar taken
+403,['detail' 'guitar' 'take'],detail on an electroacoustic guitar taken
+404,['detail' 'guitar' 'take'],detail of the bridge on a vintage guitar taken
+405,['beach' 'boat' 'island'],small boat on beach at island
+406,['beach' 'boat' 'island'],boats at a beach off island .
+407,['beach' 'boat' 'island'],beach with fishing boats on the island
+408,['attraction' 'city' 'look'],look over a city with tourist attraction
+409,['attraction' 'city' 'look'],a city looking towards tourist attraction on the south bank
+410,['action' 'fan' 'watch'],the fans watch the action
+411,['action' 'fan' 'watch'],fans watch first half action
+412,['action' 'fan' 'watch'],a crowded grandstand of fans watch action
+413,['builder' 'carry' 'cross'],statue of builder carrying a cross
+414,['builder' 'carry' 'cross'],man helps builder to carry the cross
+415,['builder' 'carry' 'cross'],builder carrying the cross ... vertical
+416,['patrol' 'soldier' 'street'],soldiers patrol the streets of t
+417,['patrol' 'soldier' 'street'],soldiers patrol along a street .
+418,['patrol' 'soldier' 'street'],a soldier patrols the streets during a mission
+419,['lean' 'portrait' 'wall'],self portrait leaning on a stone wall .
+420,['lean' 'portrait' 'wall'],portrait of an elderly man leaning over a wall
+421,['lean' 'portrait' 'wall'],portrait of little girl with a crown leaning against blue wall
+422,['bathroom' 'include' 'toilet'],Bathroom that includes a toilet and a piano.
+423,['bathroom' 'include' 'toilet'],Interior of a small bathroom including a toilet.
+424,['steam' 'track' 'train'],A train on a track blowing out steam.
+425,['steam' 'track' 'train'],Steam rising from a train moving along tracks.
+426,['steam' 'track' 'train'],A train with steam coming out is on the tracks.
+427,['cloud' 'form' 'sky'],clouds forming in a blue sky
+428,['cloud' 'form' 'sky'],cloud forms a shadow on the sky
+429,['cloud' 'form' 'sky'],time lapse of rain clouds forming on the sky
+430,['moon' 'mountain' 'rise'],moon rises from the mountain
+431,['moon' 'mountain' 'rise'],moon rising over the mountains
+432,['moon' 'mountain' 'rise'],the rising moon behind a cross on a mountain
+433,['event' 'greet' 'politician'],politician is greeted by celebrity at an event
+434,['event' 'greet' 'politician'],politician speaks during a meet and greet event .
+435,['event' 'greet' 'politician'],politicians greets supporters during a campaign event
+436,['city' 'fly' 'helicopter'],helicopter flying over a city
+437,['city' 'fly' 'helicopter'],helicopters fly above a city .
+438,['city' 'fly' 'helicopter'],helicopter flying through the city
+439,['contain' 'portrait' 'wallpaper'],wallpaper containing a portrait titled
+440,['contain' 'portrait' 'wallpaper'],wallpaper probably containing a portrait and anime called
+441,['contain' 'portrait' 'wallpaper'],if only wallpaper containing a portrait and skin titled if only
+442,['pizza' 'tomato' 'topping'],The pizza has large tomatoes on the toppings.
+443,['pizza' 'tomato' 'topping'],a pizza with some tomatoes on it as a topping 
+444,['pizza' 'tomato' 'topping'],A pizza is loaded with tomatoes and other toppings.
+445,['building' 'track' 'travel'],A train traveling along a track near buildings.
+446,['building' 'track' 'travel'],A train travels down the tracks towards a group of buildings. 
+447,['building' 'track' 'travel'],Two trains are traveling down the tracks with large buildings behind them.
+448,['car' 'track' 'travel'],A red cable car travels down the tracks.
+449,['car' 'track' 'travel'],An orange railway car traveling on the track.
+450,['car' 'track' 'travel'],A long train traveling down tracks with rusted cars.
+451,['boat' 'harbour' 'leave'],a small boat leaves the harbour
+452,['boat' 'harbour' 'leave'],waves from a boat leaving harbour
+453,['boat' 'harbour' 'leave'],fishing boat leaving the harbour in the region
+454,['celebrate' 'event' 'holiday'],special events for celebrating holiday
+455,['celebrate' 'event' 'holiday'],celebrate the holidays with these events
+456,['celebrate' 'event' 'holiday'],holiday is an event not to be celebrated alone .
+457,['bathroom' 'bathtub' 'curtain'],A bathroom that has a bathtub and a curtain.
+458,['bathroom' 'bathtub' 'curtain'],A bathroom with a blue shower curtain over the bathtub.
+459,['bathroom' 'bathtub' 'curtain'],Bathroom with toilet and bathtub with curtain around it.
+460,['flow' 'forest' 'water'],water flows in a forest .
+461,['flow' 'forest' 'water'],melting water flows through the forest
+462,['flow' 'forest' 'water'],creek with flowing water in the forest
+463,['coach' 'look' 'player'],coach of football player looks on during the match
+464,['coach' 'look' 'player'],coach looks over his players during a training session .
+465,['coach' 'look' 'player'],here is another football coach look alike with american football player .
+466,['cloud' 'cover' 'moon'],clouds cover the moon over summer
+467,['cloud' 'cover' 'moon'],full moon covered by a layer of clouds
+468,['cloud' 'cover' 'moon'],low hanging clouds cover a full moon near the tower seen
+469,['color' 'hair' 'love'],love the color of her hair
+470,['color' 'hair' 'love'],loved the color in my hair .
+471,['color' 'hair' 'love'],i love the color and body to her hair
+472,['boat' 'city' 'leave'],a boat leaving a city
+473,['boat' 'city' 'leave'],the city the boat leaves from .
+474,['boat' 'city' 'leave'],time lapse of boats leaving a city .
+475,['heart' 'shape' 'tree'],heart shaped tree in the meadow
+476,['heart' 'shape' 'tree'],pink tree under a heart shaped cloud
+477,['heart' 'shape' 'tree'],heart shaped tree growing on poetry book
+478,['fan' 'footballer' 'match'],footballer greets the fans after the match .
+479,['fan' 'footballer' 'match'],footballer applauds his fans at the end of the match
+480,['fan' 'footballer' 'match'],fans laud footballer during his final match for the club
+481,['locate' 'place' 'worship'],islamic place of worship located
+482,['locate' 'place' 'worship'],places of worship is a church located
+483,['locate' 'place' 'worship'],buddhist place of worship located in the heart
+484,['fan' 'stand' 'support'],a fan show his support in the stands
+485,['fan' 'stand' 'support'],fans show their support from the stands during the second test match
+486,['fan' 'stand' 'support'],fans in the stands show their support as they were made to work hard against the champions
+487,['cloud' 'sky' 'sunrise'],sunrise through clouds in the sky
+488,['cloud' 'sky' 'sunrise'],a sunrise with clear skies and few clouds .
+489,['cloud' 'sky' 'sunrise'],rotating dramatic clouds on the sky at sunrise
+490,['look' 'manager' 'match'],manager looks on during match .
+491,['look' 'manager' 'match'],manager looks thoughtful prior to the match .
+492,['look' 'manager' 'match'],football team manager looks on before the match .
+493,['celebrity' 'dress' 'look'],celebrity looks stunning in a yellow dress
+494,['celebrity' 'dress' 'look'],celebrity looking great in this dress and heels
+495,['celebrity' 'dress' 'look'],look gorgeous in maternity evening dresses just like a celebrity
+496,['bike' 'lot' 'park'],A parked red motor bike on a lot.
+497,['bike' 'lot' 'park'],a bunch of bikes are parked in a lot
+498,['bike' 'lot' 'park'],many bikes parked in a parking lot very close to each other
+499,['elephant' 'pen' 'stand'],A group of elephants standing around in a pen.
